@@ -1,0 +1,72 @@
+[33mcommit f306074c053d2c18aff7d5e57c648bc04ddfa632[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 21:31:46 2021 -0500
+
+    ultimo
+
+ historia.txt | 6 [32m+++++[m[31m-[m
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+[33mcommit 6c67e69c748148040aeb2745561551004ce25813[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 21:05:44 2021 -0500
+
+    adquicision
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit b1daa6fd8dfe724d85a96c01c2a46ec98aae8258[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 20:50:25 2021 -0500
+
+    cambio de edad
+
+ historia.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit 56feef4beb55e56ab43313a7eca36aeab5c06df4[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 20:37:26 2021 -0500
+
+    cambio de conocimientos
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 071190e617d6a4829fd63f2056aefd94500c4445[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 20:36:02 2021 -0500
+
+    cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit db06af4ea3420c6cce9f2beb66c35a058c3bf711[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 20:33:16 2021 -0500
+
+    inicio del proyecto
+
+ articulo.html   | 15 [32m+++++++++++++++[m
+ css/archivo.css |  6 [32m++++++[m
+ 2 files changed, 21 insertions(+)
+
+[33mcommit f35546f7d7723a59abf108f33a5790a0e30b091b[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 19:07:10 2021 -0500
+
+    cambiando nombre
+
+ historia.txt | 5 [32m+++[m[31m--[m
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+[33mcommit 9e4e7249b29209c284e0c25c7bcc0929fdfcfabb[m
+Author: Fernando Remache <fernandoremache99@gmail.com>
+Date:   Fri Jan 15 18:57:35 2021 -0500
+
+    Este es el primer commit del archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
