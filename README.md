@@ -10,5 +10,9 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 *creado por fernando Remache el mejor del mundo 
+* creado por fernando Remache el mejor del mundo 
+listo para nunca parar de aprender 
+
+listo para cambiar el mundo 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
